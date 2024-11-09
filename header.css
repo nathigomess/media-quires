@@ -79,7 +79,7 @@
     display: none
 }
 
-@mediascreen and (min-width: 1024px) {
+@media screen and (min-width: 1024px) {
 
     .container__titulo,
     .container__titulo--negrito {
@@ -147,7 +147,7 @@
 
 }
 
-@mediascreen and (min-width: 1728px) {
+@media screen and (min-width: 1728px) {
     .container__link {
         display: flex;
         align-items: center;
